@@ -1,0 +1,32 @@
+
+	What is cout?
+		cout is a predefined object in C++ that represents standard
+		output (stdout)
+	
+	What is cin?
+		cout is a predefined object in C++ that represents standard
+		input (stdin)
+	
+	What is <<?
+		Insertion or 'put to' operator
+		
+	What is >>?
+		Extraction or 'get from' operator
+	
+	Bitwise operator
+		<<	-	left shift
+		>>	-	right shift
+	
+	What is namespace?
+	
+	ofstream fout;
+	fout << "Raju Kumar";
+	
+	cout << "Raju Kumar";
+	
+	cout is object of which class?
+		object of ostream class
+	
+	cin is object of which class?
+		object of istream class
+	

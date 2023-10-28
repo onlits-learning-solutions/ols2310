@@ -10,6 +10,6 @@ int main(void)
     cout << "Enter breadth: ";
     cin >> b;
     a = l * b;
-    cout << "The area is " << a << "." << endl;
+    cout << "The area is " << a << " sq. units." << endl;
     return 0;
 }
