@@ -1,0 +1,29 @@
+a,b & c
+
+abc
+bca
+cab
+bac
+acb
+cba
+
+3!	=	3 x 2 x 1	=	6
+
+if(a<b && b<c)
+
+else if(b<c && c<a)
+
+Rewrite the above program for 10 integers.
+
+10!	=	10 x 9
+
+	NPTEL
+
+	?:
+	
+	cout << "Enter number of integers: ";
+	cin >> n;
+	int ints[n];
+	
+	
+	

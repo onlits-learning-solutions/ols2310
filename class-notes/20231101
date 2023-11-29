@@ -1,0 +1,73 @@
+
+	M/W/F	-	OOPS
+	T/T		-	DBMS
+	S		-	DS
+	
+	Array practice
+	
+	GATE
+	
+	#include <stdio.h>
+		File inclusion preprocessor directive
+	
+	#define PI 3.14
+	#define SQ(N) N*N
+		Macro Substitution PD
+		
+	int main(void);
+	{
+		int n = 10;
+		cout << "The square of n is " << SQ(n);
+	}
+	
+	for();
+	{
+	
+	}
+	
+	Block of code/ Compound statement
+	
+	printf("Hello!");
+	
+	5! = 5 x 4 x 3 x 2 x 1
+	
+	
+	for(i=n; i>1; i--)			//computational problem
+	{
+		fact *= i;
+	}
+	
+	Parts of a notice:
+		Issuing Authority
+		Title
+		Date
+		Heading
+		Body
+		Signatory
+		
+	Student
+		RegNo
+		ClassRollNo
+		Name
+		Gender
+		DOB
+		ContactNo
+		Email
+		Course
+		PreviousEducationalQualification
+		
+		
+	Teacher
+		EmployeeId
+		Name
+		Gender
+		DOB
+		ContactNo
+		Email
+		Subjects
+		Experience
+		EducationalQualification
+	
+		
+		
+		
