@@ -1,0 +1,64 @@
+
+
+	0	45
+	1	12
+	2	5
+	3	89
+	4	56
+	5	99
+	6	101
+	7	562
+	8	20
+	9	2
+	
+	1st iteration
+	0	2
+	1	45
+	2	12
+	3	89
+	4	56
+	5	99
+	6	101
+	7	562
+	8	20
+	9	5
+	
+	2nd iteration
+	0	2
+	1	5
+	2	45
+	3	89
+	4	56
+	5	99
+	6	101
+	7	562
+	8	20
+	9	12
+	
+	Swapping
+	
+	Brute Force
+	for(i=0; i<n-1;i++)
+	{
+		for(j=i+1; j<10; j++)
+		{
+			if(integers[i] > integers[j])
+			{
+				int t = integers[i];
+				integers[i] = integers[j];
+				integers[j] = t;
+			}
+		}
+	}
+	
+	
+	Complexity of selection sort: O(n^2)
+	
+	O(1)	-	 If there is no loop/iteration
+	O(n)	-	 If there are atomic loops
+	O(n^2)	-	 If loops are nested
+	
+	
+	
+	
+	

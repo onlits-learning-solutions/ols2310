@@ -1,0 +1,94 @@
+
+	Routine
+	
+	periods	1		2		3		4
+	Monday
+	Tuesday
+	
+	Relational
+	
+	Days	period1	period2	period3
+	Monday	English	Hindi	Science
+	
+	
+	array
+	stack
+	linked list
+	tree
+	queue
+	
+	0 and 1
+	
+	Routine
+		Days		-	variable character (varchar)
+		Period1		-	varchar
+		Period2		-	varchar
+		Period3		-	varchar
+		
+	Student
+		roll_no			-	int, primary key (unique, not null)
+		name			-	varchar(50)
+		gender			-	char(1) enum(m, f)
+		date_of_birth	-	date (check)
+		image			-	blob	(binary large object)
+		
+		
+		
+		int a;
+		char name[50];
+		
+		String name;
+	
+		Sanya
+		Saumya
+		Prakash
+		Manish Kumar Mishra
+	
+		Dirty operating system
+	
+	Analysis	-	What?
+	
+	What data is to be stored?
+		Student Admission (Entity)
+			AdmissionNo	(Attributes)
+			StudentName
+			DOB	
+		Fee Collection
+		Attendance
+		Library
+		Assessment
+		
+	Example of High level data model	-	ER Model, EER Model, UML
+	
+	Round-Robin Scheduling
+	
+	First Come First Serve
+	
+	106
+	
+	structured
+	semi-structured
+	unstructured
+	
+	id		user	mobile	message		
+	
+	
+	NoSql	-	MongoDb
+	
+	Train No. & Name		5609/5610	15909/15910
+	Journey From
+	To
+	Boarding From
+	To
+	
+	Name
+	Age
+	Gender
+	Meal Preference
+	Berth Preference
+	
+	Doctor
+	Child Passenger Name
+	
+	
+	
