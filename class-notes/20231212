@@ -1,0 +1,31 @@
+
+	Encapsulation
+	Abstraction
+	Inheritance
+	Polymorphism
+	
+	Database Connectivity in VB.Net
+	
+	Dim connection As New SqlConnection()		//Instantiating SqlConnection Class
+	
+	Object
+	
+		Student				-	parent (base - c++) / (super - java)
+	BCA			BBA			-	child (derived - C++) / (sub - java)
+	
+	Single	-	1 parent 1 child
+	Hierarchical	-	1 parent n children
+	Multiple	- n parents 1 child
+	Multilevel	-	
+	Hybrid	-	Mixture
+	
+	Array
+		- Has a fixed size
+	Linked List
+		
+	int age[50];
+	
+	malloc()
+	realloc()
+	
+	Linked list is a collection of nodes.
