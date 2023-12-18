@@ -1,0 +1,42 @@
+
+	OOPS
+		Procedural Design
+		structure
+		class
+	Real Life
+	
+	1. WAP to accept some holidays with its importance and display them.
+	2. WAP to accept details of each period of a class routine and 
+	   display the class routine.
+	
+	
+	Bottom-up approach
+		- Decide on the parts (objects) available
+		
+		
+		- Tyre
+		- Ball bearing
+		- Rim
+		- Mud guard
+		
+		- Frame (Manufacture)
+		
+		
+	List of Holidays 2024
+	
+	Sl	Date			Holiday
+	1	15/08/2024		Independence Day
+	2	26/01/2024		Republic Day
+	3	17/09/2024		Vishwakarma Puja
+	4	02/10/2024		Gandhi Jayanti
+	
+	User-defined data type
+	
+	STL
+	
+	Encapsulation
+	Abstraction
+	Inheritance
+	Polymorphism
+	
+	
