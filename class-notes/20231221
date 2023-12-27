@@ -1,0 +1,51 @@
+ DBMS
+ 	Data Model
+ 		ER-Model	-	Entity, Attribute & their Relationship
+ 		Relational Model - Relations (Table)
+ 	
+ In database we keep data.
+ 
+ 
+ VB vs VB.net
+ 
+ 1st generation language
+ 2nd generation language
+ 3rd generation language
+ 
+ 
+ Stenographer
+ 
+ MSIL	-	Microsoft Intermediate Language
+ 
+ Ball pen	-	Agni
+ Gel pen	-	Classmate octance
+ Fountain pen	-	Flair inky
+ 
+ 
+ Roll No		Name		Project Title
+ 12				Zoya		HMS
+ 24				Vishakha	BMS
+ 31				Saima		OSMS
+ 32				Shifa		RMS
+ 16				Ravina		BBMS
+ 
+ Table	-	Collection of rows
+ 
+ 
+ School Management System
+ 	Admission
+ 		Admission_No
+ 		Date_of_admission
+ 		Name
+ 		Gender
+ 		DOB
+ 	Fee Collection
+ 	Attendance Student
+ 	Attendance Staff (Time attendance)
+ 	Assessment
+ 	
+ Entity
+ Attributes
+ 
+ 
+ 

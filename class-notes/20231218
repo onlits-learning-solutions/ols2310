@@ -24,7 +24,7 @@
 		
 	List of Holidays 2024
 	
-	Sl	Date			Holiday
+	Sl	Date			Importance
 	1	15/08/2024		Independence Day
 	2	26/01/2024		Republic Day
 	3	17/09/2024		Vishwakarma Puja
@@ -38,5 +38,6 @@
 	Abstraction
 	Inheritance
 	Polymorphism
+	
 	
 	
