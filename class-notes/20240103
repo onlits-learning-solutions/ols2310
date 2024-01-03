@@ -1,0 +1,38 @@
+	1. Correct/ Accuracy
+	2. Readability
+	3. Testable
+	4. Maintainable
+	5. Efficiency
+	
+	E-commerce
+	School Management System
+	
+	Chess Pairing
+	
+	Bag
+	Almirah/Cupboard
+	
+	Age	-	10 years	-	int
+	Price - 1499.95		-	float
+	Date - 03/01/2024	-	string (char array)	
+	
+	
+	Entity Type	-	Student
+	Entity Set	-	student
+	
+	Cheese
+	Paneer (Cottage Cheese)
+	
+	Data Type
+		- Primitive/Built-in/Fundamental	-	int, float, char
+		- Derived							-	array, pointer, function
+		- User-defined						-	struct, union, enum
+		
+	Is the name of constructor a data type?
+		C++, Java, C#	-	 Yes
+		Python, PHP, VB	-	  No
+		
+		
+		00000000 00000000 00000000 00001010
+		
+		Abstraction
