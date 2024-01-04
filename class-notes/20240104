@@ -1,0 +1,31 @@
+
+	WAP to accept a date and display it.
+	
+	What is OOP paradigm?
+	Pillar of OOP - Encapsulation, Abstraction, Inheritance, 
+					Polymorphism
+					
+	Algorithm	-	POP
+	
+	
+	#include <stdio.h>
+	
+	int main(void)
+	{
+		int day, month, year;
+		printf("Enter a date: ");
+		scanf("%d%d%d",&day, &month, &year);
+		printf("The entered date is %d%d%d.\n", day, month, year);
+		return 0;
+	}
+	
+	
+	
+	
+	WAP to accept basic details of 5 students and display them in
+	rows and columns. 
+	
+	
+	Roll No		Name		Class 	Contact_no 	email
+	1			Saima		BCA2	8956231478
+	2			Aparna		BCA2	9658745236
