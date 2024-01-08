@@ -29,3 +29,18 @@
 	Roll No		Name		Class 	Contact_no 	email
 	1			Saima		BCA2	8956231478
 	2			Aparna		BCA2	9658745236
+	
+	
+	1	2	3
+	4	5	6
+	7	8	9
+
+	0	1	2	3	4	5	6	7	8	9 ... 49
+0	S	A	I	M	A	\0
+1	A	P	A	R	N	A	\0	
+2
+3
+4
+	
+	
+	
